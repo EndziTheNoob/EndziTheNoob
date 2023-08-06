@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelika</h1>
+<img align="right" alt="gif" width="400" src="https://drive.google.com/file/d/1K3XAgNl1nbeLNkJczfQt9RAc0XF0-d2m/view?usp=drive_link">
 
 🔭 I’m currently working on **My web portfolio**
 

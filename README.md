@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on **My web portfolio**
 
-🌱 I’m currently learning **Tailwind, Typescript**
+🌱 I’m currently learning **Tailwind CSS, Typescript**
 
 🎨 I enjoy **digital drawing, pixel art and animation**
 

@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angelika</h1>
 
-🔭 I’m currently working on **My web portfolio**
+🔭 I’m currently working on **Recreation of my first website ever in Next.js**
 
-🌱 I’m currently learning **Tailwind CSS, Typescript**
+🌱 I’m currently learning **Tailwind CSS, TypeScript**
 
 🎨 I enjoy **digital drawing, pixel art and animation**
 
